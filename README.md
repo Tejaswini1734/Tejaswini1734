@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a CS Student!<br>I'm Currently working on building MERN stack projects<br>I'm looking to collaborate on building interactive and powerful websites.<br>I'm also a consistent problem solver using DSA - Java<br>I'm still a beginner and very passionate to build my skills on web dev.<br>
+I'm a CS Student!<br>I'm Currently working on building MERN stack projects, ML and Data Science Projects<br>I'm looking to collaborate on building interactive and powerful websites.<br>I'm also a consistent problem solver using DSA - Java<br> Interested in Generative AI, RAG, and developing scalable intelligent systems for real-world applications.<br>I'm still a beginner and very passionate to build my skills on web dev.<br>
 
 
 ## 🌐 Socials:
